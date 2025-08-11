@@ -34,5 +34,5 @@ print("Hello world!")
 
 # salom
 print("Bugun biz GITHub ni o'rganyapmiz")
-
+print("Bu kodni o'zgartirdimLOL")
 
