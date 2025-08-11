@@ -34,3 +34,5 @@ print("Hello world!")
 
 # salom
 print("Bugun biz GITHub ni o'rganyapmiz")
+
+
