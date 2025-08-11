@@ -36,3 +36,4 @@ print("Hello world!")
 print("Bugun biz GITHub ni o'rganyapmiz")
 
 
+# Bugun biz git hubni organdik
